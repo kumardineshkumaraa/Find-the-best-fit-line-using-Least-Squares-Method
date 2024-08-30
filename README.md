@@ -31,9 +31,9 @@ Program:
 ```
 /* Program to implement univariate Linear Regression to fit a straight line using least squares.
 
- Developed by: MANOJ MV
+ Developed by: DINESH KUMARAA K
 
-RegisterNumber: 212222220023 */
+RegisterNumber: 212222220012 */
 
 import numpy as np
 import matplotlib.pyplot as plt
